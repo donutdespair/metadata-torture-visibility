@@ -14,8 +14,9 @@ You'll need to save the two python files into a directory of your choice and mak
 Running the Files
 
 The Python scripts are listed here in order of application to achieve the final result:
-    aclu_api_get_data__.py
-    aclu_pull_docs_data_into_csv.py
+
+    	aclu_api_get_data__.py
+    	aclu_pull_docs_data_into_csv.py
 
 There are just 2 python files. 
 The first runs through all of the nodes on the ACLU's database to grab the full data for each record (documents and other record types). It saves each node's information as a separate JSON file.
